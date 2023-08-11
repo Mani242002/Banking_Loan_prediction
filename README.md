@@ -12,7 +12,7 @@ Key:
 Prerequisites(Things to install prior to using the notebook.):
   numpy,pandas,matplotlib,seaborn,pytorch,xgboost
 
-Data description
+Data description:
   Total variables: 2395
   Col1: ID
   Col2: Target Variable
